@@ -1,5 +1,5 @@
 
-# AegeanOS Server<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8aa73882-1fa7-41e6-8a7a-df6e786c8a7c" />
+# AegeanOS Server
 
 AegeanOS Server is a lightweight, stable and support‑ready Linux distribution designed for home labs, small businesses and anyone who needs a predictable, minimal and secure server environment.
 
